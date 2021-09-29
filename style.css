@@ -11,6 +11,11 @@ html{
     scroll-behavior: smooth;
 }
 
+a {
+    text-decoration: none;
+    color: #fff;
+}
+
 /* custom scroll bar */
 ::-webkit-scrollbar {
     width: 10px;
